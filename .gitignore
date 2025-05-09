@@ -1,0 +1,5 @@
+/venv/Lib/*
+/__pycache__
+/venv/libs
+/venv/share
+/venv/Scripts
